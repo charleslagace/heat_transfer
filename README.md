@@ -32,7 +32,7 @@ points in the field. To do so, use the <i>Follow Point</i> command in the <i>Fil
 menu, then enter the (x, y) coordinate that you wish to follow. While the
 simulation is running, the temperature at each time incrementation will be
 sent to a work sheet in Excel. You can save this sheet on your computer at
-any time, using the <i>Export<i> command. You can also follow more than one
+any time, using the <i>Export</i> command. You can also follow more than one
 point if you want; in this case, the temperature values for each point will
 appear in different columns of the Excel work sheet.</p>
 <p>
