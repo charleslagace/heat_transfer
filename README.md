@@ -18,7 +18,7 @@ and y- position, the x- and y- dimensions, and the temperature of this object.
 The position will determine where the object will be centered, and the dimensions
 will define its length and its width. The object you just created will appear on
 the heat map with a red border. After at least one object has been created, you
-can also modify or delete an object in the same menu.</p>`
+can also modify or delete an object in the same menu.</p>
 <p>
 You can add a window in a similar way, using the <i>Window</i> menu. For a
 given window, you can specify the name, the side - either left, right, top,
